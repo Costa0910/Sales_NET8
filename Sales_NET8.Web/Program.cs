@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Sales_NET8.Web.Data;
 
-var builder = WebApplication.CreateBuilder(args);
 
+var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<DataContext>(
