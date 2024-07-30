@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vhn04yBWPsSloSOmQy80CbnnJjJbT7Mv0gu7P0T53e6T1HhXZim+xXmDDyXAeKtjgv3XV5QZKSYsJTFpmhszag==",
+  "dgSpecHash": "eiE/Vhsl7PyQUCAOvEeBfLTTpROtaWwzj1tIAAIV8G4BLPL9fj/7sl0vvQnTB2+QKD4OHGYgClawL/+lQSny5g==",
   "success": true,
   "projectFilePath": "/Users/costa/Downloads/Sales_NET8/Sales_NET8/Sales_NET8.Web/Sales_NET8.Web.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,8 @@
     "/Users/costa/.nuget/packages/humanizer.core.zh-cn/2.14.1/humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "/Users/costa/.nuget/packages/humanizer.core.zh-hans/2.14.1/humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "/Users/costa/.nuget/packages/humanizer.core.zh-hant/2.14.1/humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "/Users/costa/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/6.0.0/microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "/Users/costa/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/8.0.7/microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.7.nupkg.sha512",
     "/Users/costa/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.24/microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "/Users/costa/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "/Users/costa/.nuget/packages/microsoft.build/17.8.3/microsoft.build.17.8.3.nupkg.sha512",
