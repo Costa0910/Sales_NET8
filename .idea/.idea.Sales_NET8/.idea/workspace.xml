@@ -8,15 +8,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="400f642b-cb2c-4951-a0ef-3b5624436d4d" name="Changes" comment="" />
+    <list default="true" id="400f642b-cb2c-4951-a0ef-3b5624436d4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sales_NET8.Web/Data/Entities/Category.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sales_NET8.Web/Views/Countries/_Country.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sales_NET8.Web/Views/Countries/_CountryDetails.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sales_NET8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/Data/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/Data/DataContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/Views/Countries/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/Views/Countries/Create.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/Views/Countries/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/Views/Countries/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/Views/Countries/Details.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/Views/Countries/Details.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/obj/Debug/net8.0/Sales_NET8.Web.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/obj/Debug/net8.0/Sales_NET8.Web.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/obj/Debug/net8.0/Sales_NET8.Web.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/obj/Debug/net8.0/Sales_NET8.Web.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/obj/Debug/net8.0/Sales_NET8.Web.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/obj/Debug/net8.0/Sales_NET8.Web.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/obj/Sales_NET8.Web.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/obj/Sales_NET8.Web.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/obj/Sales_NET8.Web.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/obj/Sales_NET8.Web.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sales_NET8.Web/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Sales_NET8.Web/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Costa0910"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Costa0910/Sales_NET8.git",
+    "accountId": "48f60c12-2692-417c-b7da-5c88f8b9bdda"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2jdtJberpJNkwyjSP5vTW8OBrXA" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -26,15 +71,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.Sales_NET8.Web: http.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.environmentSetup"
-  },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/costa/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/Users/costa/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/Users/costa/Library/Application Support/Symbols/src"
-    ]
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.environmentSetup",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Sales_NET8.Web: http">
@@ -73,12 +120,28 @@
     <option name="remove_strategy" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="400f642b-cb2c-4951-a0ef-3b5624436d4d" name="Changes" comment="" />
+      <created>1696760591573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696760591573</updated>
+      <workItem from="1725263206135" duration="2046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
     <confirmRemoveEmptyChangelist value="2" />
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="500" />
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
